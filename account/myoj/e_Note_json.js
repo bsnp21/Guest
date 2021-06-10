@@ -30544,7 +30544,7 @@ var _Max_struct={
             "6": "",
             "7": "",
             "8": "",
-            "9": "<ol><li>Jews always first — gospel and tribulations. </li></ol>",
+            "9": "<ol><li>Jews always first — good or bad.  </li></ol>",
             "10": "",
             "11": "",
             "12": "",
