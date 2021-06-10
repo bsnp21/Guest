@@ -30547,7 +30547,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "<a class=\"e_Subtitle\">  About Law    </a>",
+            "12": "<a class=\"e_Subtitle\">  About Law and Jews </a>",
             "13": "",
             "14": "",
             "15": "",
